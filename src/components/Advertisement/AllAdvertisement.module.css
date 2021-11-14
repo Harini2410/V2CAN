@@ -1,0 +1,19 @@
+.blogsContainer {
+    padding: 10px;
+    overflow: auto;
+    background: #008080;
+    border-radius: 10px;
+}
+
+.card {
+  border-radius: 5px;
+  float: left;
+  margin: 8px;
+}
+
+.content {
+  margin: 5px;
+  padding: 10px;
+  width: 500px;
+  height: 500px;
+}

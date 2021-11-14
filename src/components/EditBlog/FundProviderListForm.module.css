@@ -1,0 +1,40 @@
+.modal input {
+  flex: 3;
+  font: inherit;
+  padding: 0.5rem 0.5rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  display: block;
+  margin-bottom: 0.5rem;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+.modal input:focus {
+  outline: none;
+  border-color: #00545f;
+  background: #dbf4fc;
+}
+.modal button {
+  margin-left: 40%;
+  padding: 20px;
+}
+.modal div {
+  margin: 2px;
+  color: red;
+  font-size: 13px;
+}
+.msg {
+  color: #000;
+}
+.modal {
+  margin: 14px;
+  padding: 20px;
+  width: 500px;
+}
+.header {
+    font-family: fantasy;
+    font-size: x-large;
+    margin-bottom: 30px;
+    padding-left: 90px;
+  }

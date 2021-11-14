@@ -1,0 +1,131 @@
+.userDet {
+  width: 32%;
+  float: left;
+  margin-left: 18%;
+  margin-top: 21px;
+  height: 605px;
+  padding: 43px;
+  background: #008080;
+  border-radius: 10px;
+}
+.card {
+  width: 100%;
+}
+.content {
+  padding: 5px;
+  margin: 10px;
+  height: 500px;
+  padding-top: 66px;
+}
+.outer {
+  padding: 10px;
+  background: #008080;
+  border-radius: 10px;
+}
+.header {
+  font-family: fantasy;
+  font-size: xx-large;
+  margin-bottom: 45px;
+  width: 293px;
+  padding-left: 30px;
+}
+.label {
+  width: 37%;
+  float: left;
+  padding-left: 30px;
+  font-family: fantasy;
+  font-size: larger;
+}
+.value {
+  width: 61%;
+  float: right;
+  margin-top: 0px;
+}
+.innercontent {
+  width: 100%;
+  margin-top: 10px;
+  margin-right: 20px;
+  overflow: hidden;
+}
+.interestContainer {
+  float: right;
+  width: 50%;
+}
+.interest {
+  margin: 0px;
+}
+.button {
+  margin-left: 26%;
+  margin-top: 15px;
+  width: 143px;
+}
+.userDetRight {
+  width: 32%;
+  float: left;
+  margin-left: 30px;
+  margin-top: 21px;
+  height: 606px;
+  padding: 43px;
+  background: #008080;
+  border-radius: 10px;
+}
+.selfFinance {
+  width: 41%;
+  float: left;
+  margin-left: 29%;
+  margin-top: 30px;
+  height: 615px;
+  padding: 43px;
+  background: #008080;
+  border-radius: 10px;
+}
+.selfFinanceContent {
+  padding: 25px;
+  margin: 10px;
+  height: 500px;
+  padding-top: 20px;
+  padding-left: 61px;
+}
+.selfFinlabel {
+  width: 48%;
+  float: left;
+  padding-left: 66px;
+  font-family: fantasy;
+  font-size: larger;
+}
+.selfFinvalue {
+  width: 52%;
+  float: right;
+  margin-top: 0px;
+}
+
+.profileIcon {
+  position: relative;
+  bottom: 10px;
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  border-radius: 25px;
+  float: right;
+}
+
+.selfFinanceProfileIcon {
+  position: relative;
+  bottom: 10px;
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  border-radius: 25px;
+  float: right;
+  margin-right: 50px;
+  margin-top: 30px;
+}
+
+.selfFinanceHeader {
+  font-family: fantasy;
+  font-size: xx-large;
+  width: 293px;
+  position: relative;
+  top: 25px;
+  left: 65px;
+}

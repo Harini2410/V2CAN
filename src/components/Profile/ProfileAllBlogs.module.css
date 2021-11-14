@@ -1,0 +1,14 @@
+.blogsContainer {
+  padding: 10px;
+  background: #008080;
+  border-radius: 10px;
+  width: 35.5%;
+  float: left;
+  margin-left: 25px;
+  height: 598px;
+  overflow-y: auto;
+  margin-top: 30px;
+}
+.blogsContainer::-webkit-scrollbar {
+  display: none;
+}

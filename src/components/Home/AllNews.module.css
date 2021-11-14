@@ -1,0 +1,46 @@
+.allnews{
+    width: 30%;
+    overflow: auto;
+    margin-top: 50px;
+    height: 565px;
+}
+.newsContainer{
+    padding: 10px;
+    background: #008080;
+    border-radius: 10px;
+}
+.news{
+    margin: 10px 5px;
+    background-color: white;
+    padding: 7px;
+    font-size: 13px;
+    height: 50px;
+    font-family: cursive;
+    border-radius: 5px;
+}
+.newsLink{
+    color: #000;
+    text-decoration: none;
+}
+.newsLink:hover{
+    color: violet;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.newsHeader{
+    text-align: center;
+    margin: 8px 0px 23px 0px;
+    padding-left: 15px;
+}
+.globeIcon{
+    font-size: 50px;
+    float: left;
+    width: 19%;
+}
+.newsHeaderText{
+    font-size: 25px;
+    width: 90%;
+}
+.allnews::-webkit-scrollbar{
+    display: none;
+}

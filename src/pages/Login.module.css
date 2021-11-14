@@ -1,0 +1,124 @@
+  .input {
+    display: flex;
+    margin: 5rem auto;
+    padding: 1rem;
+    width: 29%;
+    max-width: 40rem;
+    align-items: stretch;
+    flex-direction: column;
+  }
+  
+  .input label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .input input {
+    flex: 3;
+    font: inherit;
+    padding: 0.5rem 0.5rem;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    display: block;
+    margin-bottom: 0.5rem;
+    margin-right: 0.5rem;
+    width: 100%;
+  }
+  
+  .input input:focus {
+    outline: none;
+    border-color: #00545f;
+    background: #dbf4fc;
+  }
+  .button{
+    text-align: center;
+    padding: 10px;
+    height: 3rem;
+    margin-left: 5%;
+  }
+  .login {
+    
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-left: 19%;
+  }
+  .control {
+    margin: 1rem 0;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+  }
+  
+  .control label,
+  .control input {
+    display: block;
+  }
+  
+  .control label {
+    font-weight: bold;
+    flex: 1;
+    color: #464646;
+    margin-bottom: 0.5rem;
+  }
+  
+  .control input {
+    flex: 3;
+    font: inherit;
+    padding: 0.35rem 0.35rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+  
+  .control input:focus {
+    outline: none;
+    border-color: #464646;
+    background: #f6dbfc;
+  }
+  
+  .control.invalid input {
+    border-color: red;
+    background: #fbdada;
+  }
+  
+  .actions {
+    text-align: center;
+  }
+  
+  @media (min-width: 768px) {
+    .control {
+      align-items: center;
+      flex-direction: row;
+    }
+  
+  }
+  .newUser{
+    text-align: center;
+    padding-top: 1rem;
+    color: #464646;
+    cursor: pointer;
+    font-size: 13px;
+    font-family: cursive;
+  }
+  .newUser:hover{
+    color: rgb(20, 220, 203);
+  }
+  .btngrp{
+    float: left;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .my-node-enter {
+    opacity: 0;
+  }
+  .my-node-enter-active {
+    opacity: 1;
+    transition: opacity 200ms;
+  }
+  .my-node-exit {
+    opacity: 1;
+  }
+  .my-node-exit-active {
+    opacity: 0;
+    transition: opacity 200ms;
+  }

@@ -1,0 +1,42 @@
+
+  .input {
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    width: 90%;
+    max-width: 40rem;
+    align-items: stretch;
+    flex-direction: column;
+  }
+  
+  .input label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .input input {
+    flex: 3;
+    font: inherit;
+    padding: 0.5rem 0.5rem;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    display: block;
+    margin-bottom: 0.5rem;
+    margin-right: 0.5rem;
+    width: 100%;
+  }
+  
+  .input input:focus {
+    outline: none;
+    border-color: #00545f;
+    background: #dbf4fc;
+  }
+  .button{
+    text-align: center;
+    margin-left: 35%;
+  }
+  
+  
+  
+ 

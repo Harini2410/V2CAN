@@ -1,0 +1,12 @@
+.content {
+  height: 545px;
+  overflow: auto;
+  width: 71%;
+  float: left;
+
+  margin-left: 15%;
+}
+
+.content::-webkit-scrollbar {
+  display: none;
+}

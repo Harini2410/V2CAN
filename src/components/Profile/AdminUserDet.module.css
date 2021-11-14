@@ -1,0 +1,36 @@
+.outer {
+  background-color: white;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  width: 97%;
+  height: 140px;
+  padding-left: 40px;
+}
+.img {
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+.rightOuter {
+  float: left;
+  width: 75%;
+}
+.innerContent {
+  width: 75%;
+}
+.innerContent label {
+  width: 30%;
+  float: left;
+  margin: 0px;
+  margin-left: 76px;
+}
+.innerContent p {
+  width: 42%;
+  float: right;
+  margin: 0px;
+}
+.colab {
+  margin-top: 23px;
+  float: right;
+}

@@ -1,0 +1,43 @@
+.card{
+    display: flex;
+    margin: 5rem auto;
+    padding: 1rem;
+    width: 80%;
+    max-width: 30rem;
+    align-items: stretch;
+    flex-direction: column;
+}
+.button{
+    float: left; 
+    width: 100%; 
+    margin: 10px; 
+}
+.button button{
+    height: 10rem;
+    width: 45%;
+    margin-top: 10px;
+    margin-right: 20px;
+    overflow: hidden;
+    text-align: center;
+}
+.card header{
+    padding: 20px;
+    font-size: larger;
+    width: 100%;
+}
+.singleBtn{
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-right: 10px;
+    height: 10rem;
+}
+.imagePreviewContainer {
+  margin-bottom: 10px;
+}
+.previewImage {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 25px;
+    border: solid 1px;
+}
