@@ -1,4 +1,5 @@
 # V2CAN
+VIDEO LINK : https://drive.google.com/file/d/1tXAxz19aFWLs0q498llD16hhYhlIaSvL/view?usp=sharing
 OUTLINE:
   V2Can is an application targeting empowerment for women entrepreneurs. Our application helps in bridging the gap between aspiring entrepreneurs with potential ideas and fund providers with interests in funding for own business initiatives. This communication link established between the entrepreneurs and the financial firms ideally reduces the various hardships faced and ends up as a beneficial factor for both parties. This portal also has features to advertise their end products to the world and also helps in educating entrepreneurs with beneficial schemes.
 
